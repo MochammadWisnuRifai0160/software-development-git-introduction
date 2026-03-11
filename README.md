@@ -10,3 +10,6 @@ Program Studi : Teknik Informatika
 - Git
 - GitHub
 - Visual Studio Code
+## Daftar File Repository
+- README.md
+- perkenalan.md
